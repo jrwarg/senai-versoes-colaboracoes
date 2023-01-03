@@ -6,5 +6,6 @@
 
 formatações da linguagem Markdown
 
-
+Exemplo de alteração em nova branch:
+Lembrei do comando : git commit
 
